@@ -20,6 +20,7 @@ import com.cibertec.entity.TipoMoneda;
 
 import lombok.extern.apachecommons.CommonsLog;
 
+@CrossOrigin
 @RestController
 @RequestMapping("/rest/busqueda")
 @CommonsLog
